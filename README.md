@@ -1,21 +1,23 @@
+## Deployed link of MovieFlix webpage on netlify
+https://movieflixio.netlify.app/
 
-# Landing page of MovieFlix website will be
+## Landing page of MovieFlix website will be
 
 ![image](https://github.com/user-attachments/assets/1a063acd-6de8-4551-82b5-15b407c5c1d5)
 
-# Tab mode view of webpage
+## Tab mode view of webpage
 
 ![image](https://github.com/user-attachments/assets/6275c24b-e319-4391-8337-5e6ea1a4f4e1)
 
-# Mobile mode view of webapge - (The Home and TV show icons will be visiable at bottom side
+## Mobile mode view of webapge - (The Home and TV show icons will be visiable at bottom side
 
 ![image](https://github.com/user-attachments/assets/2e826edc-b554-4de6-9e27-f17f77be53b7)
 
-# When you click on movie image it will show detail desciption of movie
+## When you click on movie image it will show detail desciption of movie
 
 ![image](https://github.com/user-attachments/assets/88cb2543-9b5c-4a09-bf9b-6a6075dc2eee)
 
-# On play button you can watch trailer of the movie on youtube pop-up
+## On play button you can watch trailer of the movie on youtube pop-up
 
 ![image](https://github.com/user-attachments/assets/22edd341-ba82-48ea-b846-54badcb7519a)
 
