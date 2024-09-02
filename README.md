@@ -1,3 +1,9 @@
+Lookes of the MovieFlix app on web browser will be
+
+![image](https://github.com/user-attachments/assets/1a063acd-6de8-4551-82b5-15b407c5c1d5)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
